@@ -1,4 +1,6 @@
-👋 Hi, I'm Syed Ibrahim Khaliulla, a passionate student currently pursuing CSE (AI) at PSCMR College
+## Hi, I'm Syed Ibrahim Khaliulla
+
+👋 A passionate student currently pursuing CSE (AI) at PSCMR College
 
 🚀 I love exploring and learning about new and emerging technologies
 
